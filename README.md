@@ -144,19 +144,23 @@ Add in `pom.xml`:
 
 ### 🔹 Project Structure
 
-![Project Structure](screenshots/project-structure.png)
+<img width="210" height="209" alt="{58B31D49-2895-4557-9CF1-0C04AC4DC042}" src="https://github.com/user-attachments/assets/780ab5ff-3a56-4ded-ad6c-ccb61354f237" />
+
 
 ### 🔹 Login API (Postman)
 
-![Login API](screenshots/login-api.png)
+<img width="899" height="278" alt="Screenshot 2026-03-11 093954" src="https://github.com/user-attachments/assets/7fced5a2-9481-4cc5-bb41-371f26621f5f" />
+
 
 ### 🔹 Invalid Login
 
-![Invalid Login](screenshots/invalid-login.png)
+<img width="902" height="375" alt="{5472FDF4-4FA1-4638-AE73-F6431351AE07}" src="https://github.com/user-attachments/assets/582f3c0b-29ed-47e2-b356-aed3f5e20161" />
+
 
 ### 🔹 Secured API (JWT Token)
 
-![Secured API](screenshots/secured-api.png)
+<img width="960" height="295" alt="Screenshot 2026-03-11 094028" src="https://github.com/user-attachments/assets/7416ad1a-be3b-4f0c-9be1-e5f25ad65d5b" />
+
 
 ### 🔹 Database (MySQL)
 
