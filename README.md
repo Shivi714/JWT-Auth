@@ -140,9 +140,51 @@ Add in `pom.xml`:
 
 ---
 
-## ▶️ Run Project
+## 📸 Screenshots
+
+### 🔹 Project Structure
+
+![Project Structure](screenshots/project-structure.png)
+
+### 🔹 Login API (Postman)
+
+![Login API](screenshots/login-api.png)
+
+### 🔹 Invalid Login
+
+![Invalid Login](screenshots/invalid-login.png)
+
+### 🔹 Secured API (JWT Token)
+
+![Secured API](screenshots/secured-api.png)
+
+### 🔹 Database (MySQL)
+
+![Database](screenshots/database.png)
+
+---
+
+## 📁 Screenshots Folder
+
+Create this folder in your project:
 
 ```
+/screenshots
+```
+
+Add these images:
+
+* project-structure.png
+* login-api.png
+* invalid-login.png
+* secured-api.png
+* database.png
+
+---
+
+## ▶️ Run Project
+
+```bash
 mvn spring-boot:run
 ```
 
@@ -151,7 +193,11 @@ mvn spring-boot:run
 ## ⚠️ Note
 
 * Password stored in plain text (for learning only)
-* Use BCrypt & JWT filters in production
+* In production:
+
+  * Use BCrypt password encoding
+  * Add JWT filter & validation
+  * Enable proper security
 
 ---
 
