@@ -168,23 +168,7 @@ Add in `pom.xml`:
 
 ---
 
-## 📁 Screenshots Folder
 
-Create this folder in your project:
-
-```
-/screenshots
-```
-
-Add these images:
-
-* project-structure.png
-* login-api.png
-* invalid-login.png
-* secured-api.png
-* database.png
-
----
 
 ## ▶️ Run Project
 
