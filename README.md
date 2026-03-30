@@ -164,7 +164,8 @@ Add in `pom.xml`:
 
 ### 🔹 Database (MySQL)
 
-![Database](screenshots/database.png)
+![WhatsApp Image 2026-03-30 at 14 53 08](https://github.com/user-attachments/assets/ef45b400-ef62-4941-90d7-2c23db71a302)
+
 
 ---
 
